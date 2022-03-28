@@ -1,0 +1,16 @@
+@font-face{
+    src: url(./Rosario-Bold.ttf);
+    font-family: boldR;
+}
+@font-face{
+    src: url(./Rosario-Light.ttf);
+    font-family: light;
+}
+@font-face{
+    src: url(./Rosario-Medium.ttf);
+    font-family: MediumR;
+}
+@font-face{
+    src: url(./Rosario-Regular.ttf);
+    font-family: Regular;
+}
